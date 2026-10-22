@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>COLLEGE NEWS</title>
+</head>
+<body>
+
+    <!-- Main Heading -->
+    <h1>COLLEGE NEWS</h1>
+
+    <!-- Navigation Menu -->
+    <a href="#">HOME</a> | 
+    <a href="#">LATEST NEWS</a> | 
+    <a href="#">About US</a>
+
+    <hr>
+
+    <!-- Paragraph about News -->
+    <p>
+        Welcome to the official College News portal. Here you can find all the latest updates, announcements, exam schedules, and event details happening around the campus.
+    </p>
+
+    <!-- Hyperlink to College Website -->
+    <p>
+        Visit our official college website: 
+        <a href="https://www.google.com" target="_blank">Click Here to Visit College Website</a>
+    </p>
+
+    <!-- Embedded Image -->
+    <h3>Campus Image</h3>
+    <img src="https://via.placeholder.com/400x200" alt="College Campus" width="400" height="200">
+
+    <br><br>
+
+    <!-- Embedded YouTube Video -->
+    <h3>College Video Tour</h3>
+    <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+            title="YouTube video player" 
+            frameborder="0"
+    </iframe>
+
+</body>
+</html>
